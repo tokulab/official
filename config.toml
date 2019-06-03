@@ -1,4 +1,4 @@
-baseurl = "https://tokulab.github.io/official/"
+baseurl = "https://tokulab.github.io/"
 languageCode = "ja-jp"
 title = "tokulab"
 theme = "code"
