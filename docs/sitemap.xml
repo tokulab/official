@@ -8,8 +8,21 @@
   </url>
   
   <url>
+    <loc>https://tokulab.github.io/official/posts/kaggle/get-started/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tokulab.github.io/official/posts/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://tokulab.github.io/official/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tokulab.github.io/official/posts/top/</loc>
   </url>
   
   <url>

@@ -1,7 +1,7 @@
 baseurl = "https://tokulab.github.io/official/"
 languageCode = "ja-jp"
 title = "tokulab"
-theme = "hugo-code-editor-theme"
+theme = "code"
 publishDir = "docs"
 canonifyurls = true
 hasCJKLanguage = true
